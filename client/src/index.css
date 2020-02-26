@@ -5,6 +5,12 @@ body {
   background-color: #f2f2f2;
 }
 
+a:link, a:visited {
+   text-decoration: none;
+   color: black;
+   cursor: pointer;
+}
+
 .movie-card {
   background-color: #fff;
   border: 0;
